@@ -6,3 +6,4 @@ for a in range (a,9):
     print(a)
 
 print("End of program")
+print("FINISH")
